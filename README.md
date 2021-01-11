@@ -31,7 +31,9 @@
 
   * **Code:** 404 NOT FOUND <br />
   
-  **Retrieve Stock Data by Stock Name**
+  
+  
+**Retrieve Stock Data by Stock Name**
 ----
   Returns json data about a all stock matching to stock name passed.
 
